@@ -32,3 +32,4 @@ bin/*
 target/classes/*
 test-output/*
 /target/
+/bin/
